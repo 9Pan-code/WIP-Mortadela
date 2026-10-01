@@ -26,13 +26,7 @@ apps = {
     "notas": "notepad.exe",
     "calculadora": "calc.exe",
     "explorador": "explorer.exe",
-    "spotify": r"C:\Users\Pan9\AppData\Roaming\Spotify\Spotify.exe",
-    "discord": r"C:\Users\Pan9\AppData\Local\Discord\app-1.0.9244\Discord.exe",
-    "steam": r"C:\Program Files (x86)\Steam\steam.exe",
-    "new vegas": r"C:\Program Files (x86)\Steam\steamapps\common\Fallout New Vegas\FalloutNV.exe",
-    "neo vegas": r"C:\Program Files (x86)\Steam\steamapps\common\Fallout New Vegas\FalloutNV.exe",
-    "ultrakill": r"C:\Program Files (x86)\Steam\steamapps\common\ULTRAKILL\ULTRAKILL.exe",
-    "ultra": r"C:\Program Files (x86)\Steam\steamapps\common\ULTRAKILL\ULTRAKILL.exe",
+#    "spotify": "CUSTOM PATH"
 }
 
 processes = {
